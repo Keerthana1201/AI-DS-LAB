@@ -1,1 +1,1 @@
-# AL-DS-LAB
+# AI-DS-LAB
